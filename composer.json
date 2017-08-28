@@ -1,0 +1,16 @@
+{
+    "name": "zoomyboy/fileupload",
+    "description": "FileUpload for Laravel",
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "philipp@aweos.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zoomyboy\\Fileupload\\": "src/"
+        }
+    }
+}
